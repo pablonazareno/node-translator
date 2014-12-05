@@ -1,6 +1,6 @@
 {
-	"name": "meli-tranlate",
-	"version": "0.0.1",
+	"name": "node-translator",
+	"version": "0.1.0",
 	"description": "Text transaltion based on gettext .PO files.",
 	"main": "index.js",
 	"scripts": {
@@ -14,5 +14,8 @@
 	},
 	"devDependencies": {
 		"david": "5.0.*"
+	},
+	"engines": {
+		"node": ">= 0.10.0"
 	}
 }
