@@ -1,6 +1,6 @@
 {
 	"name": "node-translator",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Text transaltion based on gettext .PO files.",
 	"main": "index.js",
 	"scripts": {
