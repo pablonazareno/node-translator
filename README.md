@@ -1,27 +1,28 @@
-node-translator
-===============
-
-Text translation based on gettext .PO files.
+#node-translator
+Text translation based on gettext .PO files.<br>
+Support for string formating with  [this](http://nodejs.org/api/util.html#util_util_format_format) replacements.
 
 ## Usage
-Initialize the translations
+###Initialize the translations
 ```javascript
     var translator = require('node-translator');
     translator.init(pathToTranslations, defaultDomain);
 ```
-Translate
+###Translate
 ```javascript
     // Translate to default domain
-    translator.tr(text);
-    // Translate with plural to default domain
-    // n can be replaced in both texts using %d
-    // I.E translator.trn("%d cow", "%d cows", n);
-    translator.trn(singular, plural, n);
-    // Translate to specific domain
-    translator.trd(text, domain);
-    // Translate with plural to specific domain
-    translator.trnd('');
+    translator.tr(text [,replacements]);
     
-    // set and get (if no domain passed) the default domain
-    translator.textDomain(domain);
+    // Translate with plural to default domain
+    // I.E translator.trn("cow", "cows", n);
+    translator.trn(singular, plural, n [,replacements]);
+   
+    // Translate to specific domain
+    translator.trd(text, domain [,replacements]);
+   
+    // Translate with plural to specific domain
+    translator.trnd(singular, plural, n domain [,replacements]);
+    
+    // get (and set if domain passed) the default domain
+    translator.textDomain([domain]);
 ```
