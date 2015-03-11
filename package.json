@@ -2,6 +2,11 @@
 	"name": "node-translator",
 	"version": "0.0.2",
 	"description": "Text transaltion based on gettext .PO files.",
+	"homepage": "https://github.com/pablonazareno/node-translator",
+    	"repository": {
+        	"type": "git",
+        	"url": "git://github.com/pablonazareno/node-translator.git"
+    	},
 	"main": "index.js",
 	"scripts": {
 		"check": "./node_modules/david/bin/david.js --registry http://registry.npm.ml.com/"
