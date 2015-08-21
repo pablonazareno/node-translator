@@ -8,21 +8,54 @@ Support for string formating with  [this](http://nodejs.org/api/util.html#util_u
     var translator = require('node-translator');
     translator.init(pathToTranslations, defaultDomain);
 ```
-###Translate
+### Translate to default domain
 ```javascript
-    // Translate to default domain
-    translator.tr(text [,replacements]);
-    
-    // Translate with plural to default domain
-    // I.E translator.trn("cow", "cows", n);
-    translator.trn(singular, plural, n [,replacements]);
+translator.tr(text [,replacements]);
+``` 
+Example:
+
+```javascript
+translator.tr('Translate with the default domain: %s', 'español')
+```
+
+### Translate with plural to default domain
+```javascript
+translator.trn(singular, plural, n [,replacements]);
+```
+
+Example:
+
+```javascript
+translator.trn('cow', 'cows', n);
+```
    
-    // Translate to specific domain
-    translator.trd(text, domain [,replacements]);
+### Translate to specific domain
+```javascript
+translator.trd(text, domain [,replacements]);
+```
+
+Example:
+
+```javascript
+translator.trd('Translate to specific domain: %s', 'es-AR', 'german');
+```
+
+### Translate with plural to specific domain
+```javascript
+translator.trnd(singular, plural, n, domain);
+```
+Example:
+
+```javascript
+translator.trnd('cow', 'cows', n, 'es-AR');
+```
    
-    // Translate with plural to specific domain
-    translator.trnd(singular, plural, n domain [,replacements]);
-    
-    // get (and set if domain passed) the default domain
-    translator.textDomain([domain]);
+### Get (and set if domain passed) the default domain
+```javascript
+translator.textDomain([domain]);
+```
+Example:
+
+```javascript
+translator.textDomain('es-AR');
 ```
