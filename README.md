@@ -2,6 +2,7 @@ node-translator
 ===============
 
 Text translation based on gettext .PO files.
+Also suport formatted string.
 
 ## Usage
 Initialize the translations
@@ -12,15 +13,14 @@ Initialize the translations
 Translate
 ```javascript
     // Translate to default domain
-    translator.tr(text);
+    translator.tr(text[,format_vars]);
     // Translate with plural to default domain
-    // n can be replaced in both texts using %d
-    // I.E translator.trn("%d cow", "%d cows", n);
-    translator.trn(singular, plural, n);
+    // I.E translator.trn("cow", "cows", n [,format_vars]);
+    translator.trn(singular, plural, n [,format_vars]);
     // Translate to specific domain
-    translator.trd(text, domain);
+    translator.trd(text, domain [,format_vars]);
     // Translate with plural to specific domain
-    translator.trnd('');
+    translator.trnd(singular, plural, n, domain [,format_vars]);
     
     // set and get (if no domain passed) the default domain
     translator.textDomain(domain);
