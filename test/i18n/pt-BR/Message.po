@@ -1,0 +1,1087 @@
+msgid ""
+msgstr ""
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-04 10:11-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-28 11:57-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-26 13:06-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-25 10:04-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-25 10:01-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-18 13:46-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-18 11:05-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-18 09:56-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-14 12:06-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-13 15:16-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-10 14:32-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-05 17:53-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-05 14:59-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 11:24-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 11:10-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 10:52-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-03 10:41-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-02 11:23-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"#-#-#-#-#  keys.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-28 13:54-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  keys.po (mercadolibre-app)  #-#-#-#-#\n"
+"Project-Id-Version: mercadolibre-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-28 11:07-0300\n"
+"PO-Revision-Date: 2015-09-04 09:15-0400\n"
+"Last-Translator: Jacky <comunicacion@mercadolibre.com>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: mercadolibre-app\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: keys.po\n"
+
+#: classes/billing/billing_service.js:76
+msgid "Factura de MercadoLibre"
+msgstr "Factura de MercadoLibre"
+
+#: classes/checkout/account_money_routes.js:77
+msgid "No uses números correlativos."
+msgstr "Não use números consecutivos."
+
+#: classes/checkout/account_money_routes.js:80
+msgid "No repitas el mismo caracter."
+msgstr "Não repita o mesmo caractere."
+
+#: classes/checkout/account_money_routes.js:83
+msgid "No uses * - ni espacios."
+msgstr "Não use * - nem espaços."
+
+#: classes/checkout/account_money_routes.js:97
+msgid "Las claves ingresadas no coinciden."
+msgstr "As senhas digitadas são diferentes."
+
+#: classes/checkout/creation/checkout_integration_service.js:143
+msgid "Lamentablemente no puedes comprar a vendedores fuera de Córdoba."
+msgstr "Lamentavelmente você não pode comprar de vendedores que estão fora de Córdoba."
+
+#: classes/checkout/creation/checkout_integration_service.js:145
+msgid "El Gobierno Provincial estableció una norma impositiva que perjudica a quienes, desde otras provincias, vendan a compradores de Córdoba."
+msgstr "O Governo Provençal estabeleceu uma norma impositiva que prejudica quem, desde outras províncias, vende para compradores de Córdoba."
+
+#: classes/checkout/creation/checkout_integration_service.js:147
+msgid "Por eso, estas compras están restringidas."
+msgstr "Por isso, estas compras estão restringidas."
+
+#: classes/checkout/creation/checkout_integration_service.js:154
+#, javascript-format
+msgid "Puedes comprar hasta %s unidad."
+msgid_plural "Puedes comprar hasta %s unidades."
+msgstr[0] "Podes comprar até %s unidade."
+msgstr[1] "Podes comprar até %s unidades."
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:116
+#, javascript-format
+msgid "%dx"
+msgstr "%dx"
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:114
+#, javascript-format
+msgid "%d cuota"
+msgid_plural "%d cuotas"
+msgstr[0] "%d parcela"
+msgstr[1] "%d parcelas"
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:121
+#, javascript-format
+msgid "%d mes de"
+msgid_plural "%d meses de"
+msgstr[0] "%d mês de"
+msgstr[1] "%d meses de"
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:123
+#, javascript-format
+msgid "%d cuota de"
+msgid_plural "%d cuotas de"
+msgstr[0] "%d parcela de"
+msgstr[1] "%d parcelas de"
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:122
+msgid "Sin interés"
+msgstr "Sem juros"
+
+#: classes/checkout/options/cards/payer_cost_service.js:81
+#, javascript-format
+msgid "¡Paga este producto en hasta %s%d cuotas sin interés%s!"
+msgstr "Pague este produto em até %s%d parcelas sem juros%s!"
+
+#: classes/checkout/options/cards/payer_cost_service.js:83
+#, javascript-format
+msgid "¡Paga este producto desde %s%d cuotas sin interés%s!"
+msgstr "Pague este produto a partir de %s%d parcelas sem juros%s!"
+
+#: classes/checkout/options/checkout_options_for_item.js:778
+#, javascript-format
+msgid "Te regalamos %s de descuento de tu compra pagando con"
+msgstr "Presenteamos você com %s de desconto na sua compra pagando com o"
+
+#: classes/checkout/options/checkout_options_for_item.js:785
+#, javascript-format
+msgid "Aplicamos %s de descuento de regalo"
+msgstr "Aplicamos %s de desconto como presente do"
+
+#: classes/checkout/options/item_and_shipping_integration_service.js:94
+msgid "y"
+msgstr "e"
+
+#: classes/denounce/item/denounce_item_routes.js:70
+msgid "Elige el motivo de tu denuncia:"
+msgstr "Escolha o motivo da sua denúncia:"
+
+#: classes/denounce/item/denounce_item_routes.js:71
+msgid "Déjanos un comentario"
+msgstr "Deixe um comentário"
+
+#: classes/denounce/item/denounce_item_routes.js:72
+#: classes/myml/feedbacks/feedbacks_service.js:601
+#: classes/myml/feedbacks/feedbacks_service.js:806
+#: classes/myml/feedbacks/feedbacks_service.js:826
+msgid "Continuar"
+msgstr "Continuar"
+
+#: classes/denounce/item/denounce_item_routes.js:73
+msgid "Denunciar"
+msgstr "Faça uma denúncia"
+
+#: classes/denounce/item/denounce_item_routes.js:84
+msgid "Recibimos tu denuncia"
+msgstr "Recebemos a sua denúncia"
+
+#: classes/denounce/item/denounce_item_routes.js:85
+msgid "Revisaremos la publicación. ¡Gracias por ayudarnos!"
+msgstr "Revisaremos o anúncio. Obrigado por nos ajudar!"
+
+#: classes/denounce/item/denounce_item_routes.js:86
+#: classes/denounce/item/denounce_item_routes.js:93
+msgid "Volver a la publicación"
+msgstr "Voltar para o anúncio"
+
+#: classes/denounce/item/denounce_item_routes.js:91
+msgid "Error al denunciar"
+msgstr "Erro ao denunciar"
+
+#: classes/denounce/item/denounce_item_routes.js:92
+msgid "No pudimos enviar tu denuncia. Inténtalo más tarde."
+msgstr "Não foi possível enviar a sua denúncia. Tente mais tarde."
+
+#: classes/myml/feedbacks/feedbacks_service.js:435
+#: classes/myml/feedbacks/feedbacks_service.js:600
+#: classes/myml/feedbacks/feedbacks_service.js:744
+#: classes/myml/feedbacks/feedbacks_service.js:745
+#: classes/myml/feedbacks/feedbacks_service.js:805
+#: classes/myml/feedbacks/feedbacks_service.js:825
+msgid "Calificar"
+msgstr "Qualificar"
+
+#: classes/myml/feedbacks/feedbacks_service.js:441
+msgid "Gracias por calificar a tu vendedor"
+msgstr "Obrigado por qualificar o seu vendedor"
+
+#: classes/myml/feedbacks/feedbacks_service.js:442
+#: classes/myml/feedbacks/feedbacks_service.js:449
+#: classes/myml/feedbacks/feedbacks_service.js:456
+#: classes/myml/feedbacks/feedbacks_service.js:463
+#: classes/myml/feedbacks/feedbacks_service.js:470
+#: classes/myml/feedbacks/role_strings.js:20
+msgid "Ir a Compras"
+msgstr "Ir para Compras"
+
+#: classes/myml/feedbacks/feedbacks_service.js:444
+msgid "Si la compra no se concretó y tu vendedor no te devolvió el pago, haz un reclamo en MercadoPago."
+msgstr "Se a compra não foi concretizada e o seu vendedor não devolveu o pagamento, faça uma reclamação no MercadoPago."
+
+#: classes/myml/feedbacks/feedbacks_service.js:445
+#: classes/myml/feedbacks/feedbacks_service.js:452
+msgid "Protegeremos el dinero de tu compra y mediaremos para que resuelvan el problema."
+msgstr "Protegeremos o dinheiro da sua compra e mediaremos para o vendedor resolver o problema."
+
+#: classes/myml/feedbacks/feedbacks_service.js:448
+msgid "¿Tuviste un problema con la compra?"
+msgstr "Você teve um problema com a compra?"
+
+#: classes/myml/feedbacks/feedbacks_service.js:451
+#, javascript-format
+msgid "Le iniciamos un reclamo al vendedor para que te ayude a resolverlo antes del %s. Si no te responde, intervendremos para ayudarte."
+msgstr "Iniciamos uma reclamação com o vendedor para resolução antes de %s. Se ele não responder, vamos intervir para ajudá-lo."
+
+#: classes/myml/feedbacks/feedbacks_service.js:455
+#: classes/myml/feedbacks/feedbacks_service.js:462
+#: classes/myml/feedbacks/feedbacks_service.js:469
+#: classes/myml/feedbacks/feedbacks_service.js:483
+#: classes/myml/feedbacks/feedbacks_service.js:497
+#: classes/myml/feedbacks/feedbacks_service.js:504
+msgid "¡Gracias por tu tiempo!"
+msgstr "Obrigado pela sua atenção!"
+
+#: classes/myml/feedbacks/feedbacks_service.js:458
+msgid "Si necesitas hacer un reclamo por esta compra, contáctanos."
+msgstr "Se precisar fazer uma reclamação por esta compra, contate-nos."
+
+#: classes/myml/feedbacks/feedbacks_service.js:465
+msgid "Tu vendedor ya te calificó. Pronto podrás ver su comentario desde Compras."
+msgstr "O seu vendedor já te qualificou. Em breve, poderá ver o seu comentário em Compras."
+
+#: classes/myml/feedbacks/feedbacks_service.js:472
+msgid "El comentario de tu calificación aparecerá en la reputación del vendedor recién cuando él te califique."
+msgstr "O comentário da sua qualificação aparecerá na reputação do vendedor assim que ele qualificar você."
+
+#: classes/myml/feedbacks/feedbacks_service.js:476
+msgid "¡Gracias! Solo tenemos que confirmar que devolviste el pago"
+msgstr "Obrigado! Só precisamos confirmar se você devolveu o pagamento"
+
+#: classes/myml/feedbacks/feedbacks_service.js:477
+#: classes/myml/feedbacks/feedbacks_service.js:484
+#: classes/myml/feedbacks/feedbacks_service.js:491
+#: classes/myml/feedbacks/feedbacks_service.js:498
+#: classes/myml/feedbacks/feedbacks_service.js:505
+#: classes/myml/feedbacks/role_strings.js:5
+msgid "Ir a Ventas"
+msgstr "Ir para Vendas"
+
+#: classes/myml/feedbacks/feedbacks_service.js:479
+msgid "Por eso, abrimos un reclamo al comprador y le pedimos que nos confirme si ya recibió el pago. Mientras tanto, el dinero quedará retenido en MercadoPago."
+msgstr "Por isso, abrimos uma reclamação ao comprador e pedimos para ele confirmar se já recebeu o pagamento. Enquanto isso, o dinheiro ficará retido no MercadoPago."
+
+#: classes/myml/feedbacks/feedbacks_service.js:480
+msgid "Te enviamos todos los detalles a tu e-mail."
+msgstr "Enviaremos todos os detalhes ao seu e-mail."
+
+#: classes/myml/feedbacks/feedbacks_service.js:486
+msgid "Ya le devolvimos al comprador el pago que te había hecho a través de MercadoPago."
+msgstr "Já devolvemos ao comprador o pagamento que ele havia feito através do MercadoPago."
+
+#: classes/myml/feedbacks/feedbacks_service.js:490
+msgid "Gracias por calificar a tu comprador"
+msgstr "Obrigado por qualificar o seu comprador"
+
+#: classes/myml/feedbacks/feedbacks_service.js:493
+msgid "Tu comprador nos dijo que la venta no se concretó."
+msgstr "O seu comprador nos disse que a venda não foi concretizada."
+
+#: classes/myml/feedbacks/feedbacks_service.js:494
+msgid "Por eso, iniciamos un reclamo para que puedan resolver esta diferencia. En unos segundos te enviaremos un e-mail con los detalles."
+msgstr "Por isso, iniciamos uma reclamação para que possam resolver este impasse. Em alguns segundos enviaremos para você um e-mail com os detalhes."
+
+#: classes/myml/feedbacks/feedbacks_service.js:500
+msgid "Tu comprador ya te calificó. Pronto podrás ver su comentario desde Ventas > Cerradas."
+msgstr "O seu comprador já te qualificou. Em breve, poderá ver o seu comentário em Vendas > Encerradas."
+
+#: classes/myml/feedbacks/feedbacks_service.js:507
+msgid "El comentario de tu calificación aparecerá en la reputación del comprador recién cuando él te califique."
+msgstr "O comentário da sua qualificação aparecerá na reputação do comprador assim que ele qualificar você."
+
+#: classes/myml/feedbacks/feedbacks_service.js:513
+#: classes/myml/feedbacks/feedbacks_service.js:930
+#: classes/myml/feedbacks/feedbacks_service.js:947
+msgid "Ya calificaste esta operación"
+msgstr "Você já qualificou esta negociação"
+
+#: classes/myml/feedbacks/feedbacks_service.js:515
+#: classes/myml/feedbacks/feedbacks_service.js:951
+msgid "Por favor, aguarda. Pronto podrás verla."
+msgstr "Por favor, aguarde. Em breve poderá vê-la."
+
+#: classes/myml/feedbacks/feedbacks_service.js:520
+#: classes/myml/feedbacks/feedbacks_service.js:530
+msgid "No pudimos calificar esta operación."
+msgstr "Não foi possível qualificar esta negociação."
+
+#: classes/myml/feedbacks/feedbacks_service.js:521
+#: classes/myml/feedbacks/feedbacks_service.js:531
+#: classes/myml/feedbacks/feedbacks_service.js:532
+msgid "Volver"
+msgstr "Voltar"
+
+#: classes/myml/feedbacks/feedbacks_service.js:594
+msgid "¿Recibiste el producto que esperabas?"
+msgstr "Você recebeu o produto que estava esperando?"
+
+#: classes/myml/feedbacks/feedbacks_service.js:596
+#, javascript-format
+msgid "¿Ya entregaste el producto '%s'?"
+msgstr "Você já entregou o produto?"
+
+#: classes/myml/feedbacks/feedbacks_service.js:743
+msgid "Comparte tu opinión con todos"
+msgstr "Compartilhe a sua opinião com todos"
+
+#: classes/myml/feedbacks/feedbacks_service.js:791
+msgid "Reponer el stock de esta venta a mi publicación. ¡Es gratis!"
+msgstr "Repor o estoque desta venda ao meu anúncio."
+
+#: classes/myml/feedbacks/feedbacks_service.js:797
+msgid "No devuelvan el pago, ya se lo devolví por otro medio."
+msgstr "Não devolvam o pagamento, já foi devolvido por outro meio."
+
+#: classes/myml/feedbacks/feedbacks_service.js:804
+msgid "¿Qué pasó?"
+msgstr "O que aconteceu?"
+
+#: classes/myml/feedbacks/feedbacks_service.js:882
+msgid "Sí"
+msgstr "Sim"
+
+#: classes/myml/feedbacks/feedbacks_service.js:885
+msgid "No estoy seguro"
+msgstr "Não tenho certeza"
+
+#: classes/myml/feedbacks/feedbacks_service.js:888
+msgid "No"
+msgstr "Não"
+
+#: classes/myml/feedbacks/reasons/reasons.js:7
+#: classes/myml/feedbacks/reasons/reasons.js:26
+msgid "Es distinto a lo que compré / Me llegó roto"
+msgstr "É diferente do que comprei/ Chegou com defeito"
+
+#: classes/myml/feedbacks/reasons/reasons.js:12
+msgid "Lo pagué pero nunca me llegó el producto"
+msgstr "Paguei, mas nunca chegou"
+
+#: classes/myml/feedbacks/reasons/reasons.js:17
+#: classes/myml/feedbacks/reasons/reasons.js:36
+msgid "Otro"
+msgstr "Outro"
+
+#: classes/myml/feedbacks/reasons/reasons.js:31
+msgid "Nunca me llegó el producto"
+msgstr "O produto nunca chegou"
+
+#: classes/myml/feedbacks/reasons/reasons.js:46
+msgid "Me arrepentí de venderlo"
+msgstr "Desisti de vendê-lo"
+
+#: classes/myml/feedbacks/reasons/reasons.js:51
+msgid "El comprador no respondió a mis mensajes"
+msgstr "O comprador não respondeu minhas mensagens"
+
+#: classes/myml/feedbacks/reasons/reasons.js:56
+msgid "El comprador se arrepintió de comprarlo"
+msgstr "O comprador desistiu de comprá-lo"
+
+#: classes/myml/feedbacks/reasons/reasons.js:61
+#: classes/myml/feedbacks/reasons/reasons.js:93
+msgid "Me quedé sin stock"
+msgstr "Fiquei sem estoque"
+
+#: classes/myml/feedbacks/reasons/reasons.js:66
+msgid "No intenté contactar al comprador"
+msgstr "Não tentei entrar em contato com o comprador"
+
+#: classes/myml/feedbacks/reasons/reasons.js:71
+msgid "El comprador no tenía el dinero"
+msgstr "O comprador não tinha dinheiro"
+
+#: classes/myml/feedbacks/reasons/reasons.js:76
+msgid "El comprador no respetó las políticas de envío y pago del artículo"
+msgstr "O comprador não respeitou as políticas de envio e pagamento do produto"
+
+#: classes/myml/feedbacks/reasons/reasons.js:81
+msgid "Otros motivos por responsabilidad del vendedor"
+msgstr "Outros motivos por responsabilidade do vendedor"
+
+#: classes/myml/feedbacks/reasons/reasons.js:86
+msgid "Otros motivos por responsabilidad del comprador"
+msgstr "Outros motivos por responsabilidade do comprador"
+
+#: classes/myml/feedbacks/reasons/reasons.js:98
+msgid "Decidí no venderlo"
+msgstr "Decidi não vendê-lo"
+
+#: classes/myml/feedbacks/reasons/reasons.js:103
+msgid "El comprador no quiso comprarlo"
+msgstr "O comprador não quis comprá-lo"
+
+#: classes/myml/feedbacks/reasons/reasons.js:108
+msgid "Otro motivo"
+msgstr "Outro motivo"
+
+#: classes/myml/feedbacks/role_strings.js:6
+#: classes/myml/feedbacks/role_strings.js:12
+msgid "No pudimos obtener el estado de tu venta, por favor intenta nuevamente."
+msgstr "Não foi possível exibir o estado da sua venda, por favor, tente mais tarde."
+
+#: classes/myml/feedbacks/role_strings.js:7
+msgid "¿Te pagó rápido? ¿Fue amable? Deja tu comentario para que todos sepan cómo es el comprador."
+msgstr "Eles pagaram rápido? Foram amáveis? Deixe o seu comentário para que todos saibam como são estes compradores."
+
+#: classes/myml/feedbacks/role_strings.js:8
+msgid "Cuéntanos sobre el comprador: ¿lo recomendarías a otros vendedores?"
+msgstr "Conte-nos sobre o comprador: você o recomendaria para outros vendedores?"
+
+#: classes/myml/feedbacks/role_strings.js:9
+msgid "No puedes elegir esta opción porque la venta fue hace más de 21 días."
+msgstr "Você não pode escolher esta opção porque a venda tem mais de 21 dias."
+
+#: classes/myml/feedbacks/role_strings.js:10
+msgid "¡Sí, ya lo entregué!"
+msgstr "Sim, já entreguei!"
+
+#: classes/myml/feedbacks/role_strings.js:11
+msgid "No, no lo voy a entregar"
+msgstr "Não, não vou entregá-lo"
+
+#: classes/myml/feedbacks/role_strings.js:13
+msgid "Ya no puedes calificar esta venta debido al tiempo transcurrido."
+msgstr "O prazo para qualificar esta venda acabou"
+
+#: classes/myml/feedbacks/role_strings.js:21
+#: classes/myml/feedbacks/role_strings.js:28
+msgid "No pudimos obtener el estado de tu compra, por favor intenta nuevamente."
+msgstr "Não foi possível exibir o estado da sua compra, por favor, tente mais tarde."
+
+#: classes/myml/feedbacks/role_strings.js:22
+msgid "¿Respondió rápido? ¿Fue amable? Deja tu comentario para que todos sepan cómo es el vendedor."
+msgstr "Respondeu rápido? Foi amável? Deixe o seu comentário para que todos saibam como é o vendedor."
+
+#: classes/myml/feedbacks/role_strings.js:23
+msgid "¿Recomendarías al vendedor?"
+msgstr "Você recomenda o vendedor?"
+
+#: classes/myml/feedbacks/role_strings.js:24
+msgid "No puedes elegir esta opción porque la compra fue hace más de 21 días."
+msgstr "Você não pode escolher esta opção porque a compra foi há mais de 21 dias."
+
+#: classes/myml/feedbacks/role_strings.js:25
+msgid "Sí, tengo el producto y está bien"
+msgstr "Sim, recebi o produto e está tudo correto"
+
+#: classes/myml/feedbacks/role_strings.js:26
+msgid "Decidí no comprarlo"
+msgstr "Decidi não comprá-lo"
+
+#: classes/myml/feedbacks/role_strings.js:27
+msgid "Tuve un problema"
+msgstr "Não, tive problemas"
+
+#: classes/myml/feedbacks/role_strings.js:29
+msgid "Ya no puedes calificar esta compra debido al tiempo transcurrido."
+msgstr "O prazo para qualificar esta compra acabou"
+
+#: classes/myml/listings/listings_routes.js:86
+msgid "Tienes pendiente un costo por publicar de ##LISTING_FEE##. Por favor realiza el pago para que tu artículo se vea en los listados."
+msgstr "Você tem uma tarifa de anúncio pendente de ##LISTING_FEE##. Por favor, realize o pagamento para que o seu produto seja visto na lista."
+
+#: classes/myml/listings/listings_routes.js:87
+msgid "Pagar y activar"
+msgstr "Pagar e ativar"
+
+#: classes/myml/listings/listings_routes.js:89
+msgid "1- Ve a tu computadora de escritorio.\n"
+"2- Entra a Mi cuenta > Ventas > Publicaciones > Para revisar.\n"
+"3- Paga tu publicación para activarla."
+msgstr "1- Vá ao computador mais próximo.\n"
+"2- Acesse Minha conta > Vendas > Anúncios> Para revisar.\n"
+"3- Pague o seu anúncio para ativá-lo."
+
+#: classes/myml/listings/listings_routes.js:111
+msgid "Duración ilimitada"
+msgstr "Duração ilimitada"
+
+#: classes/myml/listings/listings_routes.js:119
+msgid "Cambiar a los nuevos tipos de publicación"
+msgstr "Mudar para novos anúncios"
+
+#: classes/myml/listings/listings_routes.js:491
+msgid "Solo falta pagar el costo por publicar."
+msgstr "Falta somente pagar a tarifa de anúncio."
+
+#: classes/myml/order_information_integration_service.js:926
+#, javascript-format
+msgid "- DNI o fotocopia de: <b>%s</b>"
+msgstr "- CPF <b>%s</b>"
+
+#: classes/myml/order_information_integration_service.js:930
+#, javascript-format
+msgid "- Código de seguimiento: <b>Nº %s</b>"
+msgstr "- Código de rastreamento <b>Nº %s</b>"
+
+#: lib/services/maininfo/core/payments/payment_fields.js:48
+#, javascript-format
+msgid "%dx %s %s sin interés"
+msgstr "%dx %s %s sem juros"
+
+#: classes/newVip/vip_sections_service.js:103
+msgid "A consultar"
+msgstr "A consultar"
+
+#: classes/newVip/vip_sections_service.js:105
+msgid "A convenir"
+msgstr "A convenir"
+
+#: classes/newVip/vip_sections_service.js:188
+msgid "Más publicaciones del vendedor"
+msgstr "Mais anúncios do vendedor"
+
+#: classes/newVip/vip_sections_service.js:275
+msgid "Publicación Promocionada"
+msgid_plural "Publicaciones Promocionadas"
+msgstr[0] "Anúncio patrocinado"
+msgstr[1] "Anúncios patrocinados"
+
+#: classes/utils/checkout_utils.js:606
+msgid "Sólo podrás pagar con <b>CMR Falabella de VISA</b> o de <b>Mastercard</b>."
+msgstr "Você só poderá pagar com <b>CMR Falabella de Visa</b> ou de <b>Mastercard</b>."
+
+#: classes/utils/listing_types_global_features_utils.js:63
+msgid "* Publicaciones con duración ilimitada."
+msgstr "* Anúncios com duração ilimitada."
+
+#: classes/utils/listing_types_global_features_utils.js:64
+msgid "* Podrás cambiar entre estos tipos de publicación las veces que quieras."
+msgstr "* Você poderá alternar esses tipos de anúncios quantas vezes quiser."
+
+#: lib/services/classifieds/map/map_section_service.js:63
+msgid "Ubicación del inmueble"
+msgstr "Localização do imóvel"
+
+#: lib/services/classifieds/map/map_section_service.js:65
+msgid "Ubicación del servicio"
+msgstr "Localização do serviço"
+
+#: lib/services/classifieds/misc/use_conditions_service.js:85
+msgid "Consejos de seguridad"
+msgstr "Dicas de segurança"
+
+#: lib/services/classifieds/reviews/reviews_section_service.js:48
+msgid "Opiniones sobre este servicio"
+msgstr "Opiniões sobre este serviço"
+
+#: lib/services/classifieds/reviews/reviews_section_service.js:57
+msgid "Nadie opinó sobre este servicio."
+msgstr "Ninguém opinou sobre este serviço."
+
+#: lib/services/classifieds/reviews/reviews_section_service.js:126
+#, javascript-format
+msgid "Promedio entre %d opiniones"
+msgstr "Média de %d opiniões"
+
+#: lib/services/classifieds/sellerinfo/seller_info_service.js:164
+msgid "Información de la inmobiliaria"
+msgstr "Informação da imobiliária"
+
+#: lib/services/classifieds/sellerinfo/seller_info_service.js:166
+msgid "Información de la concesionaria"
+msgstr "Informação da concessionária"
+
+#: lib/services/classifieds/sellerinfo/seller_info_service.js:168
+msgid "Información del anunciante"
+msgstr "Informação do anunciante"
+
+#: lib/services/classifieds/sellerinfo/seller_info_service.js:189
+#, javascript-format
+msgid "Legajo N.º %d"
+msgstr "Arquivo N.º %d"
+
+#: lib/services/maininfo/classifieds/title_service.js:63
+#, javascript-format
+msgid "%s en %s"
+msgstr "%s en %s"
+
+#: lib/services/description/description_section_service.js:133
+msgid "El vendedor no incluyó una descripción del producto"
+msgstr "El vendedor no incluyó una descripción del producto"
+
+#: lib/services/description/description_section_service.js:184
+msgid "Descripción"
+msgstr "Descrição"
+
+#: lib/services/description/description_service.js:198
+msgid "Descripción del vendedor"
+msgstr "Descrição do vendedor"
+
+#: lib/services/maininfo/classifieds/classifieds_maininfo_service.js:56
+#, javascript-format
+msgid "%s amb."
+msgstr "%s amb."
+
+#: lib/services/maininfo/classifieds/classifieds_maininfo_service.js:63
+#, javascript-format
+msgid "%s m2"
+msgstr "%s m2"
+
+#: lib/services/maininfo/classifieds/classifieds_maininfo_service.js:70
+#, javascript-format
+msgid "(%s m2 cubiertos)"
+msgstr "(%s m2 construídos)"
+
+#: lib/services/maininfo/core/core_maininfo_service.js:97
+msgid "USADO"
+msgstr "USADO"
+
+#: lib/services/maininfo/core/core_maininfo_service.js:108
+msgid "USADO •"
+msgstr "• USADO"
+
+#: lib/services/maininfo/core/core_maininfo_service.js:110
+msgid "<b>SUBASTA</b>"
+msgstr "<b>ARREMATE</b>"
+
+#: lib/services/maininfo/core/core_maininfo_service.js:125
+#, javascript-format
+msgid "%s vendido"
+msgid_plural "%s vendidos"
+msgstr[0] "%s vendido"
+msgstr[1] "%s vendidos"
+
+#: lib/services/maininfo/core/payments/payment_fields.js:25
+#: lib/services/purchaseInfo/payment/payment_agreement_service.js:30
+msgid "Pago a acordar con el vendedor"
+msgstr "Pagamento a combinar com o vendedor"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:15
+#: lib/services/maininfo/core/shipping/shipping_fields.js:32
+#: lib/services/maininfo/core/shipping/shipping_fields.js:53
+#, javascript-format
+msgid "<font color=\"#999999\">Ubicado en </font><font color=\"#666666\">%s, %s</font>"
+msgstr "<font color=\"#999999\">Ubicado en </font><font color=\"#666666\">%s, %s</font>"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:18
+#: lib/services/maininfo/core/shipping/shipping_fields.js:35
+#: lib/services/maininfo/core/shipping/shipping_fields.js:56
+#: lib/services/purchaseInfo/shipping/shipping_agreement_service.js:16
+msgid "Envío a acordar con el vendedor"
+msgstr "Envio a combinar com o vendedor"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:77
+#, javascript-format
+msgid "<font color=\"#999999\">Recíbelo el </font><font color=\"#666666\">%s %s</font>"
+msgstr "<font color=\"#999999\">Receba-o em </font><font color=\"#666666\">%s %s</font>"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:201
+msgid "Envío gratis"
+msgstr "Frete grátis"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:75
+msgid "Envíos a todo el país"
+msgstr "Envio para todo o país"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:95
+#: lib/services/maininfo/core/shipping/shipping_fields.js:118
+#: lib/services/purchaseInfo/shipping/shipping_agreement_service.js:21
+msgid "Envío gratis a todo el país"
+msgstr "Frete grátis para todo o país"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:115
+#, javascript-format
+msgid "(A excepción de las regiones %s y %s)."
+msgstr "(Exceto para as regiões %s e %s)."
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:136
+#: lib/services/maininfo/core/shipping/shipping_fields.js:158
+#, javascript-format
+msgid "Recíbelo el %s"
+msgstr "Receba-o em %s"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:137
+#: lib/services/maininfo/core/shipping/shipping_fields.js:159
+#, javascript-format
+msgid "<font color=\"#999999\">Comprando antes de las </font><font color=\"#666666\">%s h</font>"
+msgstr "<font color=\"#999999\">Comprando antes das </font><font color=\"#666666\">%s h</font>"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:191
+#: lib/services/maininfo/core/shipping/shipping_fields.js:222
+#, javascript-format
+msgid "<font color=\"#999999\">Retíralo en </font><font color=\"#666666\">sucursal OCA</font><font color=\"#999999\"> a partir del </font><font color=\"#666666\">%s %s</font>"
+msgstr "<font color=\"#999999\">Retire na </font><font color=\"#666666\">agência OCA</font><font color=\"#999999\"> a partir de</font><font color=\"#666666\">%s %s</font>"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:193
+#: lib/services/maininfo/core/shipping/shipping_fields.js:224
+#, javascript-format
+msgid "<font color=\"#999999\">A partir del despacho, lo recibes en </font><font color=\"#666666\">sucursal OCA</font><font color=\"#999999\"> en </font><font color=\"#666666\">%d día hábil</font>"
+msgid_plural "<font color=\"#999999\">A partir del despacho, lo recibes en </font><font color=\"#666666\">sucursal OCA</font><font color=\"#999999\"> en </font><font color=\"#666666\">%d días hábiles</font>"
+msgstr[0] "<font color=\"#999999\">A partir do envio, você receberá na </font><font color=\"#666666\">agência OCA</font><font color=\"#999999\"> em</font><font color=\"#666666\">%d dia útil</font>"
+msgstr[1] "<font color=\"#999999\">A partir do envio, você receberá na </font><font color=\"#666666\">agência OCA</font><font color=\"#999999\"> em</font><font color=\"#666666\">%d dias uteis</font>"
+
+#: lib/services/maininfo/core/shipping/shipping_fields.js:237
+msgid "Envío"
+msgstr "Frete "
+
+#: lib/services/maininfo/items/items_service.js:61
+#, javascript-format
+msgid "Finaliza en %s h %s min"
+msgstr "Termina em %s h min %s"
+
+#: lib/services/productAds/product_ads_service.js:10
+msgid "Publicación promocionada"
+msgstr "Publicação Promovido"
+
+#: lib/services/purchaseInfo/payment/payment_agreement_service.js:25
+msgid "Este vendedor ofrece:"
+msgstr "Este vendedor oferece:"
+
+#: lib/services/purchaseInfo/payment/payment_section_service.js:18
+msgid "Nuestra solución para que pagues de forma rápida, segura y ¡sin costo adicional!"
+msgstr "Nuestra solución para que pagues de forma rápida, segura y ¡sin costo adicional!"
+
+#: lib/services/purchaseInfo/payment/payment_section_service.js:49
+msgid "Medios de pago"
+msgstr "Meios de pagamento"
+
+#: lib/services/purchaseInfo/payment_and_shipping_section_service.js:23
+msgid "Formas de pago y entrega"
+msgstr "Formas de pagamento e entrega"
+
+#: lib/services/purchaseInfo/shipping/shipping_agreement_service.js:17
+#, javascript-format
+msgid "Ubicado en %s, %s"
+msgstr "Ubicado en %s, %s"
+
+#: lib/services/purchaseInfo/shipping/shipping_agreement_service.js:23
+msgid "Lo retiro en domicilio del vendedor"
+msgstr "Vou retirar no endereço do vendedor"
+
+#: lib/services/purchaseInfo/shipping/shipping_section_service.js:23
+msgid "Es el servicio de MercadoLibre que te permite recibir tus productos de forma rápida y segura"
+msgstr "É o serviço do MercadoLivre que permite que você receba seus produtos de forma rápida e segura"
+
+#: lib/services/purchaseInfo/shipping/shipping_section_service.js:48
+msgid "Formas de entrega"
+msgstr "Formas de entrega"
+
+#: lib/services/questions/questions_service.js:47
+msgid "Tuvimos que borrar esta pregunta porque no cumple con nuestras Políticas de Publicación"
+msgstr "Tivemos que excluir esta pergunta porque não está de acordo com as nossas políticas para cadastramento de anúncios"
+
+#: lib/services/questions/questions_service.js:62
+msgid "Tuvimos que borrar esta respuesta porque no cumple con nuestras Políticas de Publicación"
+msgstr "Tivemos que excluir esta resposta porque não está de acordo com as nossas políticas para cadastramento de anúncios"
+
+#: lib/services/questions/questions_service.js:97
+msgid "Nadie hizo preguntas todavía."
+msgstr "Ninguém fez perguntas ainda."
+
+#: lib/services/questions/questions_service.js:104
+msgid "Nadie hizo preguntas todavía. <b>¡Sé el primero!</b>"
+msgstr "Ninguém fez perguntas ainda. <b>Seja o primeiro!</b>"
+
+#: lib/services/questions/questions_service.js:111
+msgid "Preguntas al vendedor"
+msgstr "Perguntas ao vendedor"
+
+#: lib/services/reputation/reputation_section_service.js:29
+msgid "Información del vendedor"
+msgstr "Informações do vendedor"
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:114
+#, javascript-format
+msgid "%dx ${installment_cost}"
+msgstr "%dx ${installment_cost}"
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:116
+#, javascript-format
+msgid "%d mes de ${installment_cost}"
+msgid_plural "%d meses de ${installment_cost}"
+msgstr[0] "%d mês de ${installment_cost}"
+msgstr[1] "%d meses de ${installment_cost}"
+
+#: classes/checkout/options/cards/credit_card_detail_service.js:118
+#, javascript-format
+msgid "%d cuota de ${installment_cost}"
+msgid_plural "%d cuotas de ${installment_cost}"
+msgstr[0] "%d parcela de ${installment_cost}"
+msgstr[1] "%d parcelas de ${installment_cost}"
+
+#: lib/services/description/description_section_service.js:184
+msgid "Descripción de la publicación"
+msgstr "Descrição do anúncio"
+
+#: lib/services/reputation/reputation_section_service.js:31
+msgid "Información del Vendedor"
+msgstr "Informações do vendedor"
+
+#: lib/services/maininfo/core/core_maininfo_service.js:121
+#, javascript-format
+msgid "%s vendidos"
+msgstr "%s vendidos"
+
+#: lib/services/questions/questions_service.js:120
+msgid "Este item aun no tiene preguntas. <b>¡Sé el primero!</b>"
+msgstr "Este item aun no tiene preguntas. <b>¡Sé el primero!</b>"
+
+#: lib/services/customization/render_options_service.js:230
+msgid "Tienda oficial"
+msgstr "Tienda oficial"
+
+#: lib/services/customization/render_options_service.js:257
+msgid "Categoría adultos"
+msgstr "Categoría adultos"
+
+#: lib/services/customization/render_options_service.js:258
+#, javascript-format
+msgid "%s resultados"
+msgstr "%s resultados"
+
+#: lib/services/questions/questions_service.js:22
+#, javascript-format
+msgid "Hace %d día"
+msgid_plural "Hace %d días"
+msgstr[0] "Há %d dia"
+msgstr[1] "Há %d dias"
+
+#: lib/services/questions/questions_service.js:26
+#, javascript-format
+msgid "Hace %s horas"
+msgstr "Há %s horas"
+
+#: lib/services/questions/questions_service.js:32
+#, javascript-format
+msgid "Hace %s minutos"
+msgstr "Há %s minutos"
+
+#: lib/services/questions/questions_service.js:35
+msgid "Recién"
+msgstr "Recente"
+
+#: classes/newVip/vip_sections_service.js:83
+#, javascript-format
+msgid "%dx %s %d sin interés"
+msgstr "%dx %s %d sem juros"
+
+#: classes/syi/syi_routes.js:83
+msgid "* Anúncios com duração ilimitada."
+msgstr "* Anúncios com duração ilimitada."
+
+#: classes/syi/syi_routes.js:84
+msgid "* Você poderá alterar esses tipos de anúncios quantas vezes quiser."
+msgstr "* Você poderá alterar esses tipos de anúncios quantas vezes quiser."
+
+#: classes/myml/listings/listings_routes.js:119
+msgid "Cambiar a nuevas publicaciones"
+msgstr "Cambiar a nuevas publicaciones"
+
+#: lib/services/classifieds/misc/use_conditions_service.js:101
+msgid "MercadoLibre no vende este artículo y no participa en ninguna negociación, venta o perfeccionamiento de operaciones. Sólo se limita a la publicación de anuncios de sus usuarios."
+msgstr "O MercadoLivre não vende este item e não participa de qualquer negociação, venda ou operações. Apenas limita-se a publicar anúncios de seus usuários."
+
