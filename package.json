@@ -3,10 +3,10 @@
 	"version": "0.1.0",
 	"description": "Text transaltion based on gettext .PO files.",
 	"homepage": "https://github.com/pablonazareno/node-translator",
-    	"repository": {
-        	"type": "git",
-        	"url": "git://github.com/pablonazareno/node-translator.git"
-    	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/pablonazareno/node-translator.git"
+	},
 	"main": "index.js",
 	"scripts": {
 		"check": "./node_modules/david/bin/david.js --registry http://registry.npm.ml.com/"
@@ -18,7 +18,7 @@
 		"node-gettext": "git://github.com/pablonazareno/node-gettext.git"
 	},
 	"devDependencies": {
-		"david": "5.0.*",
+		"eslint": "^4.9.0",
 		"mocha": "2.3.3"
 	},
 	"engines": {
