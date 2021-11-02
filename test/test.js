@@ -5,7 +5,7 @@ var translator = require('../index.js');
 
 describe('Node Translator Test', function() {
 	before(function() {
-		translator.init('./test/i18n', 'pt-BR');
+		translator.init('./test/i18n', "Message", 'pt-BR');
 	});
 	it('should translate some texts', function() {
 		assert.equal(translator.tr('Sin interés'), 'Sem juros');

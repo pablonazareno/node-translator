@@ -1,21 +1,22 @@
 {
 	"name": "node-translator",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Text transaltion based on gettext .PO files.",
 	"homepage": "https://github.com/pablonazareno/node-translator",
-    	"repository": {
-        	"type": "git",
-        	"url": "git://github.com/pablonazareno/node-translator.git"
-    	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/pablonazareno/node-translator.git"
+	},
 	"main": "index.js",
 	"scripts": {
-		"check": "./node_modules/david/bin/david.js --registry http://registry.npm.ml.com/"
+		"check": "./node_modules/david/bin/david.js",
+		"test": "./node_modules/mocha/bin/mocha"
 	},
 	"author": "Pablo Lucadei",
 	"license": "MIT",
 	"dependencies": {
-		"winston": "0.8.3",
-		"node-gettext": "git://github.com/pablonazareno/node-gettext.git"
+		"node-gettext": "3.0.0",
+		"gettext-parser": "4.0.4"
 	},
 	"devDependencies": {
 		"david": "5.0.*",
