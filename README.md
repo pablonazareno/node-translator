@@ -6,7 +6,7 @@ Support for string formating with  [this](http://nodejs.org/api/util.html#util_u
 ### Initialize the translations
 ```javascript
     var translator = require('node-translator');
-    translator.init(pathToTranslations, defaultDomain);
+    translator.init(pathToTranslations, defaultDomain, defaultLanguaje);
 ```
 ### Translate to default domain
 ```javascript
